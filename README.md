@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm a **college student** with a keen interest in 
 
 ## 🌟 About Me
 - 🎓 I'm a student at **National Institute of Technology, Delhi**.
-- 🌱 Currently learning **Artificial Intelligence** and **Data Science** 
-- 💡 I believe in the power of technology to solve real-world problems and improve lives.
-
+- 🌱 Currently learning **Artificial Intelligence** and **Data Science**
 ## 🛠️ Skills
 - **Programming Languages**: 
   - Python 🐍
