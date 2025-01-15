@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a **college student** with a keen interest in 
   - Data Visualization
   - Deep Learning
 
-## 📈 GitHub Stats
-![Ashmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmitgupta&show_icons=true&theme=radical)
-
 ## 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/ashmit-gupta-970ab9289)  
 - 📫 Reach me at: **ashmit456gupta@gmail.com** (Replace with your actual email)
