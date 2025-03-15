@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **college student** with a keen interest in 
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/ashmit-gupta-970ab9289)  
-- 📫 Reach me at: **ashmit456gupta@gmail.com** (Replace with your actual email)
+- 📫 Reach me at: **ashmit456gupta@gmail.com**
 
 ---
 
